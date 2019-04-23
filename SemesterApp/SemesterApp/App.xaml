@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SemesterApp.App"
+             NavigationPage.HasNavigationBar="False"
+             >
+    <Application.Resources>
+        <ResourceDictionary>
+            <!--¨Style for the header-->
+            <Style x:Key="HeaderStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="XAlign" Value="Center"/>
+                <Setter Property="YAlign" Value="Center"/>
+            </Style>
+            <!--Style for the text-->
+            <Style x:Key="TextStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#A8A8A8"/>
+                <Setter Property="FontSize" Value="17"/>
+                <Setter Property="FontAttributes" Value="None" />
+            </Style>
+            <!--style for the frames in the oversigt page-->
+            <Style x:Key="OversigtFrame" TargetType="Frame">
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="WidthRequest" Value="300" />
+                <Setter Property="CornerRadius" Value="20" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="Margin" Value="10"/>
+                <Setter Property="Padding" Value="10"/>
+                <Setter Property="BackgroundColor" Value="White"/>
+            </Style>
+            <Style x:Key="PickerStyle" TargetType="Picker">
+                <Setter Property="HeightRequest" Value="20"/>
+                <Setter Property="WidthRequest" Value="300" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="BackgroundColor" Value="White"/>
+            </Style>
+            <!--excercise label-->
+            <Style x:Key="Excercise" TargetType="Label">
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="XAlign" Value="Start"/>
+                <Setter Property="YAlign" Value="Start"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
