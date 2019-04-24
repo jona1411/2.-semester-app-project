@@ -4,7 +4,7 @@
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              x:Class="SemesterApp.AppTabs" 
              BarBackgroundColor="White"
-             BarTextColor="Black"
+             BarTextColor="Red"
              BackgroundColor="LightGray"
             NavigationPage.HasNavigationBar="False"
             android:TabbedPage.ToolbarPlacement="Bottom"
