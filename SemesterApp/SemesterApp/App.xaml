@@ -44,6 +44,23 @@
                 <Setter Property="XAlign" Value="Start"/>
                 <Setter Property="YAlign" Value="Start"/>
             </Style>
+            
+           <!--Login screen-->
+                <Style x:Key="LoginStyle" TargetType="Label">
+                    <Setter Property="TextColor" Value="#558B2F"/>
+                    <Setter Property="FontSize" Value="36"/>
+                    <Setter Property="FontAttributes" Value="Bold" />
+                </Style>
+                <Style x:Key="LoginTextStyle" TargetType="Label">
+                    <Setter Property="TextColor" Value="#A8A8A8"/>
+                    <Setter Property="FontSize" Value="15"/>
+                    <Setter Property="FontAttributes" Value="None" />
+                </Style>
+            <Style x:Key="LoginWhiteHeader" TargetType="Label">
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="17"/>
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

@@ -17,9 +17,6 @@ namespace SemesterApp
         public AppTabs ()
         {
             InitializeComponent();
-            //On<Xamarin.Forms.PlatformConfiguration.Android>().SetToolbarPlacement(ToolbarPlacement.Bottom);
-            //var NavigationPage = new NavigationPage(new Oversigt());
-            //NavigationPage.Icon = "guide.png";
             this.Children.Add(new Oversigt());
             this.Children.Add(new Træning());
             this.Children.Add(new Vejledning());

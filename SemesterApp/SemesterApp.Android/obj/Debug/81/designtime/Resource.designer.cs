@@ -2345,6 +2345,12 @@ namespace SemesterApp.Droid
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
+			// aapt resource value: 0x7F010002
+			public const int Background = 2130771970;
+			
+			// aapt resource value: 0x7F010003
+			public const int Background2 = 2130771971;
+			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
 			
@@ -2363,14 +2369,14 @@ namespace SemesterApp.Droid
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010002
-			public const int guide = 2130771970;
-			
-			// aapt resource value: 0x7F010003
-			public const int HeaderBottom = 2130771971;
-			
 			// aapt resource value: 0x7F010004
-			public const int HeaderBottom22 = 2130771972;
+			public const int guide = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int HeaderBottom = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int HeaderBottom22 = 2130771974;
 			
 			// aapt resource value: 0x7F090054
 			public const int ic_audiotrack_dark = 2131296340;

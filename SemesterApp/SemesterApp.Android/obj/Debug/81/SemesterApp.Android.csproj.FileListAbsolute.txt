@@ -105,6 +105,6 @@ C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debu
 C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debug\81\res\drawable\guide.png
 C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debug\81\res\drawable\headerbottom.png
 C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debug\81\res\drawable\headerbottom22.png
-C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp\bin\Debug\netstandard2.0\SemesterApp.dll
-C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\bin\Debug\SemesterApp.dll.mdb
+C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debug\81\res\drawable\background.png
+C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debug\81\res\drawable\background2.png
 C:\Users\jonat\source\repos\SemesterApp\SemesterApp\SemesterApp.Android\obj\Debug\81\linksrc\SemesterApp.dll.mdb
