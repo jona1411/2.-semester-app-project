@@ -795,20 +795,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jonat\\.nuget\\packages\\": {}
+    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.Android\\SemesterApp.Android.csproj",
       "projectName": "SemesterApp.Android",
       "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.Android\\SemesterApp.Android.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.Android\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.Android\\SemesterApp.Android.csproj",
+      "projectName": "SemesterApp.Android",
+      "projectPath": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.Android\\SemesterApp.Android.csproj",
+      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.Android\\obj\\",
+>>>>>>> master
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -821,8 +829,13 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj": {
               "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj"
+=======
+            "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj"
+>>>>>>> master
             }
           }
         }

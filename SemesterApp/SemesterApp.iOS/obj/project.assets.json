@@ -714,11 +714,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\jonat\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+>>>>>>> master
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
       "projectName": "SemesterApp.iOS",
       "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
@@ -728,6 +733,17 @@
       "skipContentFileWrite": true,
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
+      "projectName": "SemesterApp.iOS",
+      "projectPath": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> master
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -740,8 +756,13 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj": {
               "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj"
+=======
+            "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj"
+>>>>>>> master
             }
           }
         }
