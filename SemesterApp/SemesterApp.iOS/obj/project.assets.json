@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
       "projectName": "SemesterApp.iOS",
-      "projectPath": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
+      "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\SemesterApp.iOS.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp\\SemesterApp.csproj": {
-              "projectPath": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp\\SemesterApp.csproj"
+            "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj": {
+              "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj"
             }
           }
         }

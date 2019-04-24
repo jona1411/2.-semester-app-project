@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp\\SemesterApp.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj",
       "projectName": "SemesterApp",
-      "projectPath": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp\\SemesterApp.csproj",
+      "projectPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\SemesterApp.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\source\\repos\\SemesterApp\\SemesterApp\\SemesterApp\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\source\\repos\\2.-semester-app-project\\SemesterApp\\SemesterApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

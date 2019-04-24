@@ -11,7 +11,7 @@ namespace SemesterApp
         {
             InitializeComponent();
 
-            //MainPage = new NavigationPage(new AppTabs());
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
